@@ -52,7 +52,7 @@
 1. **Sklonuj repozytorium:**
    ```bash
    git clone https://github.com/symplelx/text-based_rpg.git
-   cd text-based-rpg
+   cd text-based_rpg
    ```
 
 2. **Uruchom grę:**
