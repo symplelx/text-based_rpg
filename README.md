@@ -51,7 +51,7 @@
 
 1. **Sklonuj repozytorium:**
    ```bash
-   git clone https://github.com/twoj-nick/text-based-rpg.git
+   git clone https://github.com/symplelx/text-based_rpg.git
    cd text-based-rpg
    ```
 
